@@ -1,11 +1,11 @@
-[![MasterHead]<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="neelesh-chaturvedi-031164234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/neelesh-chaturvedi-031164234?trk=profile-badge">Neelesh chaturvedi</a></div>
-              ]
 
 <h1 align="center">Hi 👋, I'm Neelesh Chaturvedi</h1>
 <h3 align="center">A passionate developer from India and curious about the tech world</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/w6Afg5fCX8h_wkW1FD2XLMOuKUOXVT9tN2hJWmhl6Rc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.gif">
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="neelesh-chaturvedi-031164234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/neelesh-chaturvedi-031164234?trk=profile-badge">Neelesh chaturvedi</a></div>
+              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cra-zyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="cra-zyprogrammer" /> </p>
 
 - 🔭 I’m currently working on **to-do list and time management android application**
